@@ -1,13 +1,8 @@
 ## Welcome to the WilberthLucas repository (Me) 👋
 
 - 🔭 I currently work with backend
-<!-- - 🌱 I'm studying Kotlin and JavaScript -->
 - 📫 Contact by email: wilberth.1994@gmail.com
 - 🤩 Favorite language: Java
-
-<!-- ### 🧔🏻 About me<br>
-
-I believe computer viruses should be considered entities with a form of life. I think this perspective reflects something about human nature. It appears to be the only life form we have created thus far, and it is inherently destructive. We have essentially brought forth life in our own image.<br> -->
 
 ### 📊 GitHub Analytics<br>
 
