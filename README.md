@@ -16,20 +16,19 @@ I believe computer viruses should be considered entities with a form of life. I 
   <img height="250em"src="https://github-readme-stats.vercel.app/api?username=WilberthLucas&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilberthLucas&layout=donut&theme=codeSTACKr"/>
 </div><br>
-    
-### 💻 Projects pinned<br>
-<div style="display: inline_block"><br>
-  <a href="https://github.com/WilberthLucas">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=WilberthLucas&repo=e-conommiza_app&theme=ayu-mirage"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=WilberthLucas&repo=powershell_jedi&theme=ayu-mirage"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=WilberthLucas&repo=simple-patter-strategy&theme=ayu-mirage"/>
 
-</div><br>
+### 🤖 Tech Skills<br>
 <div style="display: inline_block"><br>
-  <a href="https://github.com/WilberthLucas">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=WilberthLucas&repo=bot_discord_zoio&theme=ayu-mirage"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=WilberthLucas&repo=banner-spring-custom&theme=ayu-mirage"/>  
-  <img height="129em" src="https://github-readme-stats.vercel.app/api/pin/?username=WilberthLucas&repo=aol_app_android_public&theme=ayu-mirage"/>  
+  <img align="center" alt="null-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="null-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="null-jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="null-svn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg">
+  <img align="center" alt="null-postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="null-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="null-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="null-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="null-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="right" alt="null-yoda" height="150" width="140" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif">
 </div><br>
  
 ### 🤜🏻🤛🏻 Connect with Me<br><br>
